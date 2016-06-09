@@ -1,0 +1,10 @@
+E:\code\Tracker\Tracker\Tracker\bin\Debug\Tracker.exe.config
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.csprojResolveAssemblyReference.cache
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.Cache
+E:\code\Tracker\Tracker\Tracker\bin\Debug\Tracker.exe
+E:\code\Tracker\Tracker\Tracker\bin\Debug\Tracker.pdb
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.exe
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.pdb
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.connectionInfo.resources
+E:\code\Tracker\Tracker\Tracker\obj\Debug\Tracker.GUI.resources
